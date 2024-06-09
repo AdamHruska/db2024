@@ -1,0 +1,77 @@
+[
+	{
+		"capacity": 65,
+		"launch_time": "2023-04-15T10:30:00Z",
+		"survivors_count": 40,
+		"crew": [
+			{
+				"first_name": "James",
+				"last_name": "Brown",
+				"role": "Captain",
+				"cabin_id": 12
+			},
+			{
+				"first_name": "Robert",
+				"last_name": "Davis",
+				"role": "First Mate",
+				"cabin_id": 15
+			},
+			{
+				"first_name": "Emily",
+				"last_name": "Clark",
+				"role": "Navigator",
+				"cabin_id": 18
+			}
+		]
+	},
+	{
+		"capacity": 50,
+		"launch_time": "2023-04-15T11:00:00Z",
+		"survivors_count": 30,
+		"crew": [
+			{
+				"first_name": "Alice",
+				"last_name": "Smith",
+				"role": "Second Mate",
+				"cabin_id": 22
+			},
+			{
+				"first_name": "John",
+				"last_name": "Williams",
+				"role": "Engineer",
+				"cabin_id": 25
+			},
+			{
+				"first_name": "Laura",
+				"last_name": "Taylor",
+				"role": "Steward",
+				"cabin_id": 27
+			}
+		]
+	},
+	{
+		"capacity": 75,
+		"launch_time": "2023-04-15T12:15:00Z",
+		"survivors_count": 55,
+		"crew": [
+			{
+				"first_name": "Henry",
+				"last_name": "Miller",
+				"role": "Chief Officer",
+				"cabin_id": 30
+			},
+			{
+				"first_name": "Grace",
+				"last_name": "Wilson",
+				"role": "Deck Hand",
+				"cabin_id": 33
+			},
+			{
+				"first_name": "Daniel",
+				"last_name": "Moore",
+				"role": "Quartermaster",
+				"cabin_id": 36
+			}
+		]
+	}
+]

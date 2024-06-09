@@ -1,0 +1,17 @@
+[
+	{
+		"cabin_name": "Ocean View Suite",
+		"cabin_number": 101,
+		"deck": "A"
+	},
+	{
+		"cabin_name": "Deluxe Balcony Room",
+		"cabin_number": 202,
+		"deck": "B"
+	},
+	{
+		"cabin_name": "Standard Interior Room",
+		"cabin_number": 303,
+		"deck": "C"
+	}
+]

@@ -1,0 +1,95 @@
+[
+	{
+		"first_name": "John",
+		"last_name": "Doe",
+		"gender": "male",
+		"age": 30,
+		"survived": true,
+		"SibSp": 1,
+		"ParCh": 2,
+		"family_size": 4,
+		"embarking_port": "C",
+		"Tickets": {
+			"ticket_code": "21171",
+			"Pclass": "3",
+			"boarding_port": "Southampton",
+			"destination_port": "New York",
+			"ticket_count": 1,
+			"fare": 7.25
+		},
+		"Addresses": {
+			"street": "123 Main St",
+			"postal_code": "12345",
+			"town": "Anytown",
+			"country_name": "USA",
+			"state": "CA"
+		},
+		"cabin_id": 12,
+		"Pclass": {
+			"pClass": 3,
+			"description": "Third Class"
+		}
+	},
+	{
+		"first_name": "Alice",
+		"last_name": "Smith",
+		"gender": "female",
+		"age": 28,
+		"survived": false,
+		"SibSp": 0,
+		"ParCh": 1,
+		"family_size": 2,
+		"embarking_port": "S",
+		"Tickets": {
+			"ticket_code": "17599",
+			"Pclass": "1",
+			"boarding_port": "Cherbourg",
+			"destination_port": "New York",
+			"ticket_count": 1,
+			"fare": 71.2833
+		},
+		"Addresses": {
+			"street": "456 Elm St",
+			"postal_code": "67890",
+			"town": "Somewhere",
+			"country_name": "UK",
+			"state": "N/A"
+		},
+		"cabin_id": 85,
+		"Pclass": {
+			"pClass": 1,
+			"description": "First Class"
+		}
+	},
+	{
+		"first_name": "Michael",
+		"last_name": "Johnson",
+		"gender": "male",
+		"age": 45,
+		"survived": true,
+		"SibSp": 2,
+		"ParCh": 3,
+		"family_size": 6,
+		"embarking_port": "Q",
+		"Tickets": {
+			"ticket_code": "5734",
+			"Pclass": "2",
+			"boarding_port": "Queenstown",
+			"destination_port": "Boston",
+			"ticket_count": 3,
+			"fare": 23.45
+		},
+		"Addresses": {
+			"street": "789 Oak St",
+			"postal_code": "11223",
+			"town": "Springfield",
+			"country_name": "Canada",
+			"state": "ON"
+		},
+		"cabin_id": 47,
+		"Pclass": {
+			"pClass": 2,
+			"description": "Second Class"
+		}
+	}
+]
